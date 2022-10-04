@@ -1,0 +1,8 @@
+{
+    "nim.project": [
+        {
+            "projectFile": "nim_lox/nim_lox.nim",
+            "fileRegex": "nim_lox/.*\\.nim"
+        }
+    ]
+}
